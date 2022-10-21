@@ -45,4 +45,10 @@ Esse projeto está sob a licença MIT.
 
 ---
 
+## Contato
+
+- [Linkedin](https://www.linkedin.com/in/giselle-brasil-macedo-729113137/)
+- gisellemacedo.dev@gmail.com
+
+
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
